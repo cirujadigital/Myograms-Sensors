@@ -1,0 +1,45 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Sensor muscular_arduino
+*Date=21:05:01
+*CreatedBy=Fritzing 0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;50.171;-11.9617;0;Bottom;Jumper3
+2;220;THT;37.41;-11.8981;0;Bottom;R3
+3;220;THT;9.46997;-29.6781;0;Bottom;R2
+4;;;46.3;-19.5181;0;Bottom;Jumper4
+5;1µF;100 mil [THT, electrolytic];36.14;-29.6781;0;Bottom;C3
+6;;5 mm [THT];12.0098;-22.7491;0;Bottom;LED1
+7;220;THT;39.95;-19.5181;90;Bottom;R6
+8;;;14.55;-4.27808;180;Bottom;POT1
+9;1µF;100 mil [THT, electrolytic];36.14;-39.8381;0;Bottom;C4
+10;;;4.38987;-39.8381;0;Bottom;Hole1
+11;1µF;100 mil [THT, electrolytic];18.36;-11.8981;0;Bottom;C1
+12;1µF;100 mil [THT, electrolytic];18.36;-19.5181;0;Bottom;C2
+13;;;9.46997;-10.6281;0;Bottom;Jumper1
+14;220;THT;24.71;-11.8981;90;Bottom;R4
+15;220;THT;17.09;-16.9781;0;Bottom;R5
+16;;THT;70.43;-11.8981;-90;Bottom;J8
+17;;;4.38987;-4.27818;0;Bottom;Hole2
+18;220;THT;34.87;-34.7581;0;Bottom;R8
+19;;THT;82.9629;-38.3141;-90;Bottom;J7
+20;;;43.76;-29.6781;0;Bottom;Jumper2
+21;;;70.43;-22.0581;90;Bottom;Parte2
+22;220;THT;27.25;-27.1381;0;Bottom;R7
+23;;DIP8 [THT];31.06;-20.7881;-90;Bottom;U1
+24;100nF;100 mil [THT, multilayer];65.35;-36.0281;-90;Bottom;C6
+25;;300 mil [THT];66.5946;-24.5981;180;Bottom;D2
+26;;THT;66.62;-6.81808;-90;Bottom;J5
+27;220;THT;14.55;-27.1381;0;Bottom;R1
+28;1µF;100 mil [THT, electrolytic];70.43;-36.0281;-90;Bottom;C5
+29;;THT;57.73;-34.7581;-90;Bottom;J6
+30;;5 mm [THT];4.39011;-22.7491;0;Bottom;LED2
