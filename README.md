@@ -1,5 +1,9 @@
 # Myograms-Sensors
 
+PCBs y diseños de sensores para sistemas opto y mecanomiográficos orientados al control de protesis.
+
+All the developments here are based in third party research.
+
 
 Circuito del optomiograma:
 https://people.ece.cornell.edu/land/courses/eceprojectsland/STUDENTPROJ/2013to2014/ras578/Writeup/An%20IR%20Muscle%20Contraction%20Sensor.html
